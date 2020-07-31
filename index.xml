@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hans</title>
+    <link>https://hanswanglin.github.io/HansPortfolio/</link>
+    <description>Recent content on Hans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:26:09 -0500</lastBuildDate>
+    
+	<atom:link href="https://hanswanglin.github.io/HansPortfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iZhiqun</title>
+      <link>https://hanswanglin.github.io/HansPortfolio/works/izhiqun/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://hanswanglin.github.io/HansPortfolio/works/izhiqun/</guid>
+      <description>Izhiqun is a professinal UI/UX design course in China.</description>
+    </item>
+    
+    <item>
+      <title>Data Pool</title>
+      <link>https://hanswanglin.github.io/HansPortfolio/works/datapool/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://hanswanglin.github.io/HansPortfolio/works/datapool/</guid>
+      <description>data pool.</description>
+    </item>
+    
+  </channel>
+</rss>
